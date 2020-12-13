@@ -1,0 +1,11 @@
+export const REGISTER = 'REGISTER'
+export const LOGIN = 'LOGIN'
+export const LOGOUT = 'LOGOUT'
+export const CHECKLOGGEDIN = 'CHECKLOGGEDIN'
+export const FOLLOW = 'FOLLOW'
+export const UNFOLLOW = 'UNFOLLOW' 
+
+export const TWEET = 'TWEET'
+export const GET_ALL_TWEETS = 'GET_ALL_TWEETS'
+export const GET_FOLLOWED_TWEETS = 'GET_FOLLOWED_TWEETS'
+export const GET_ONE_USER_TWEETS = 'GET_ONE_USER_TWEETS'
